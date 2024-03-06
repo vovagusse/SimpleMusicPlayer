@@ -32,4 +32,7 @@ class MainActivity : AppCompatActivity() {
     }
 }
 
+fun square(x: Float) : Float {
+    return x * x
+}
 //i want jetpack compose pls
